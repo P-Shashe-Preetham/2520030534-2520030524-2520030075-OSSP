@@ -1,0 +1,52 @@
+[
+  {
+    "directory": "D:/Coding/Projects/Linux System Information and Resource Monitoring Tool/OSSP-Project/OSSP-Project",
+    "command": "clang --target=x86_64-linux-gnu -std=c11 -Wall -Wextra -g -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200809L -Iinclude -isystem //wsl.localhost/Ubuntu/usr/include -isystem //wsl.localhost/Ubuntu/usr/include/x86_64-linux-gnu -isystem //wsl.localhost/Ubuntu/usr/lib/gcc/x86_64-linux-gnu/15/include -c src/cpu.c",
+    "file": "src/cpu.c"
+  },
+  {
+    "directory": "D:/Coding/Projects/Linux System Information and Resource Monitoring Tool/OSSP-Project/OSSP-Project",
+    "command": "clang --target=x86_64-linux-gnu -std=c11 -Wall -Wextra -g -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200809L -Iinclude -isystem //wsl.localhost/Ubuntu/usr/include -isystem //wsl.localhost/Ubuntu/usr/include/x86_64-linux-gnu -isystem //wsl.localhost/Ubuntu/usr/lib/gcc/x86_64-linux-gnu/15/include -c src/disk.c",
+    "file": "src/disk.c"
+  },
+  {
+    "directory": "D:/Coding/Projects/Linux System Information and Resource Monitoring Tool/OSSP-Project/OSSP-Project",
+    "command": "clang --target=x86_64-linux-gnu -std=c11 -Wall -Wextra -g -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200809L -Iinclude -isystem //wsl.localhost/Ubuntu/usr/include -isystem //wsl.localhost/Ubuntu/usr/include/x86_64-linux-gnu -isystem //wsl.localhost/Ubuntu/usr/lib/gcc/x86_64-linux-gnu/15/include -c src/display.c",
+    "file": "src/display.c"
+  },
+  {
+    "directory": "D:/Coding/Projects/Linux System Information and Resource Monitoring Tool/OSSP-Project/OSSP-Project",
+    "command": "clang --target=x86_64-linux-gnu -std=c11 -Wall -Wextra -g -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200809L -Iinclude -isystem //wsl.localhost/Ubuntu/usr/include -isystem //wsl.localhost/Ubuntu/usr/include/x86_64-linux-gnu -isystem //wsl.localhost/Ubuntu/usr/lib/gcc/x86_64-linux-gnu/15/include -c src/ipc.c",
+    "file": "src/ipc.c"
+  },
+  {
+    "directory": "D:/Coding/Projects/Linux System Information and Resource Monitoring Tool/OSSP-Project/OSSP-Project",
+    "command": "clang --target=x86_64-linux-gnu -std=c11 -Wall -Wextra -g -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200809L -Iinclude -isystem //wsl.localhost/Ubuntu/usr/include -isystem //wsl.localhost/Ubuntu/usr/include/x86_64-linux-gnu -isystem //wsl.localhost/Ubuntu/usr/lib/gcc/x86_64-linux-gnu/15/include -c src/logger.c",
+    "file": "src/logger.c"
+  },
+  {
+    "directory": "D:/Coding/Projects/Linux System Information and Resource Monitoring Tool/OSSP-Project/OSSP-Project",
+    "command": "clang --target=x86_64-linux-gnu -std=c11 -Wall -Wextra -g -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200809L -Iinclude -isystem //wsl.localhost/Ubuntu/usr/include -isystem //wsl.localhost/Ubuntu/usr/include/x86_64-linux-gnu -isystem //wsl.localhost/Ubuntu/usr/lib/gcc/x86_64-linux-gnu/15/include -c src/main.c",
+    "file": "src/main.c"
+  },
+  {
+    "directory": "D:/Coding/Projects/Linux System Information and Resource Monitoring Tool/OSSP-Project/OSSP-Project",
+    "command": "clang --target=x86_64-linux-gnu -std=c11 -Wall -Wextra -g -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200809L -Iinclude -isystem //wsl.localhost/Ubuntu/usr/include -isystem //wsl.localhost/Ubuntu/usr/include/x86_64-linux-gnu -isystem //wsl.localhost/Ubuntu/usr/lib/gcc/x86_64-linux-gnu/15/include -c src/memory.c",
+    "file": "src/memory.c"
+  },
+  {
+    "directory": "D:/Coding/Projects/Linux System Information and Resource Monitoring Tool/OSSP-Project/OSSP-Project",
+    "command": "clang --target=x86_64-linux-gnu -std=c11 -Wall -Wextra -g -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200809L -Iinclude -isystem //wsl.localhost/Ubuntu/usr/include -isystem //wsl.localhost/Ubuntu/usr/include/x86_64-linux-gnu -isystem //wsl.localhost/Ubuntu/usr/lib/gcc/x86_64-linux-gnu/15/include -c src/process.c",
+    "file": "src/process.c"
+  },
+  {
+    "directory": "D:/Coding/Projects/Linux System Information and Resource Monitoring Tool/OSSP-Project/OSSP-Project",
+    "command": "clang --target=x86_64-linux-gnu -std=c11 -Wall -Wextra -g -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200809L -Iinclude -isystem //wsl.localhost/Ubuntu/usr/include -isystem //wsl.localhost/Ubuntu/usr/include/x86_64-linux-gnu -isystem //wsl.localhost/Ubuntu/usr/lib/gcc/x86_64-linux-gnu/15/include -c src/signals.c",
+    "file": "src/signals.c"
+  },
+  {
+    "directory": "D:/Coding/Projects/Linux System Information and Resource Monitoring Tool/OSSP-Project/OSSP-Project",
+    "command": "clang --target=x86_64-linux-gnu -std=c11 -Wall -Wextra -g -D_DEFAULT_SOURCE -D_POSIX_C_SOURCE=200809L -Iinclude -isystem //wsl.localhost/Ubuntu/usr/include -isystem //wsl.localhost/Ubuntu/usr/include/x86_64-linux-gnu -isystem //wsl.localhost/Ubuntu/usr/lib/gcc/x86_64-linux-gnu/15/include -c src/snapshot.c",
+    "file": "src/snapshot.c"
+  }
+]

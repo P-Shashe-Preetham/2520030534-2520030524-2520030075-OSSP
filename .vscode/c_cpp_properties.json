@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "${workspaceFolder}/include",
+        "//wsl.localhost/Ubuntu/usr/include",
+        "//wsl.localhost/Ubuntu/usr/include/x86_64-linux-gnu",
+        "//wsl.localhost/Ubuntu/usr/lib/gcc/x86_64-linux-gnu/15/include"
+      ],
+      "defines": [
+        "_DEFAULT_SOURCE",
+        "_POSIX_C_SOURCE=200809L"
+      ],
+      "cStandard": "c11",
+      "compileCommands": "${workspaceFolder}/compile_commands.json",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}

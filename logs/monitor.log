@@ -1,0 +1,33 @@
+[2026-10-12 08:38:51] Linux Resource Monitor (Team 18) initialized successfully
+[2026-10-12 08:38:51] Named Pipe IPC channel established at /tmp/ossp_monitor.fifo
+[2026-10-12 08:38:53] Monitor stopped gracefully
+[2026-10-12 08:47:10] Linux Resource Monitor (Team 18) initialized successfully
+[2026-10-12 08:47:10] Named Pipe IPC channel established at /tmp/ossp_monitor.fifo
+[2026-10-12 08:48:09] Linux Resource Monitor (Team 18) initialized successfully
+[2026-10-12 08:48:09] Named Pipe IPC channel established at /tmp/ossp_monitor.fifo
+[2026-10-12 08:49:11] IPC Command received: 'SNAPSHOT'
+[2026-10-12 08:49:11] Memory-mapped snapshot requested via IPC
+[2026-10-12 08:49:12] Memory-mapped snapshot saved to logs/snapshot.dat
+[2026-10-12 08:49:57] IPC Command received: 'SORT PID'
+[2026-10-12 08:49:57] Process sort set to PID
+[2026-10-12 08:49:57] IPC Command received: 'SORT MEM'
+[2026-10-12 08:49:57] Process sort set to Physical Memory (RES)
+[2026-10-12 08:49:57] IPC Command received: 'SORT NAME'
+[2026-10-12 08:49:57] Process sort set to Name
+[2026-10-12 08:50:02] IPC Command received: 'PAUSE'
+[2026-10-12 08:50:02] [2026-10-12 08:50:03]  commandIPC Command received: 'RESUME'
+[2026-10-12 08:50:03] Display resumed via IPC command
+[2026-10-12 08:50:14] Monitor stopped gracefully
+[2026-10-12 13:02:49] Memory Warning: RAM usage at 100.0%
+[2026-10-13 07:17:48] Memory Warning: RAM usage at 100.0%
+[2026-10-13 09:29:32] Memory Warning: RAM usage at 100.0%
+[2026-10-14 09:37:47] Memory Warning: RAM usage at 100.0%
+[2026-10-14 09:38:01] Memory Warning: RAM usage at 100.0%
+[2026-10-14 13:24:57] Memory Warning: RAM usage at 100.0%
+[2026-10-14 16:15:59] Memory Warning: RAM usage at 100.0%
+[2026-10-14 16:52:11] Memory Warning: RAM usage at 100.0%
+[2026-10-14 16:52:13] Memory Warning: RAM usage at 100.0%
+[2026-10-15 15:38:15] Memory Warning: RAM usage at 100.0%
+[2026-10-15 16:26:21] Memory Warning: RAM usage at 100.0%
+[2026-10-16 03:27:16] Memory Warning: RAM usage at 100.0%
+[2026-10-16 04:01:01] Memory Warning: RAM usage at 100.0%
